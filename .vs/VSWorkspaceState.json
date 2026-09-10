@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StrategyPattern",
+    "\\StrategyPattern\\Interfaces",
+    "\\StrategyPattern\\Interfaces\\FlyBehavior",
+    "\\StrategyPattern\\Interfaces\\QuackBehavior",
+    "\\StrategyPattern\\Interfaces\\SwimBehavior"
+  ],
+  "PreviewInSolutionExplorer": false
+}
