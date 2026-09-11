@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\displays\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\displays\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\displays\\forecastdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\displays\\forecastdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\displays\\statisticsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\displays\\statisticsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\displays\\currentconditiondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\displays\\currentconditiondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\interfaces\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\interfaces\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\interfaces\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\interfaces\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\interfaces\\displayelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\interfaces\\displayelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\observerpattern\\observerpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEBF851F-917B-C45E-D2B8-7873FE9FDB40}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\observerpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\strategypattern\\strategypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\strategypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\WeatherData.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\WeatherData.cs",
+              "RelativeToolTip": "ObserverPattern\\WeatherData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:53:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:53:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\Subject.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Interfaces\\Subject.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\Subject.cs",
+              "RelativeToolTip": "ObserverPattern\\Interfaces\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:47:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\Observer.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Interfaces\\Observer.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\Observer.cs",
+              "RelativeToolTip": "ObserverPattern\\Interfaces\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:47:12.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayElement.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\DisplayElement.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Interfaces\\DisplayElement.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\DisplayElement.cs",
+              "RelativeToolTip": "ObserverPattern\\Interfaces\\DisplayElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:47:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\WeatherDisplay.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Displays\\WeatherDisplay.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\WeatherDisplay.cs",
+              "RelativeToolTip": "ObserverPattern\\Displays\\WeatherDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:45:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\StatisticsDisplay.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Displays\\StatisticsDisplay.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\StatisticsDisplay.cs",
+              "RelativeToolTip": "ObserverPattern\\Displays\\StatisticsDisplay.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:44:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForecastDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\ForecastDisplay.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Displays\\ForecastDisplay.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\ForecastDisplay.cs",
+              "RelativeToolTip": "ObserverPattern\\Displays\\ForecastDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:44:09.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentConditionDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
+              "RelativeToolTip": "ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:43:21.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObserverPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\ObserverPattern.csproj",
+              "RelativeDocumentMoniker": "ObserverPattern\\ObserverPattern.csproj",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\ObserverPattern.csproj",
+              "RelativeToolTip": "ObserverPattern\\ObserverPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T12:54:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StrategyPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\StrategyPattern\\StrategyPattern.csproj",
+              "RelativeDocumentMoniker": "StrategyPattern\\StrategyPattern.csproj",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\StrategyPattern\\StrategyPattern.csproj",
+              "RelativeToolTip": "StrategyPattern\\StrategyPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T12:54:00.659Z",
+              "EditorCaption": ""
             }
           ]
         }
