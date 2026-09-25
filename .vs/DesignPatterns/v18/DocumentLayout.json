@@ -3,28 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\blackchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\blackchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\whitechocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\whitechocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\whiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\whiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\vanillasugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\vanillasugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\syrup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\syrup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\steamedmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\steamedmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\milkfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\milkfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\liquor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\liquor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\halfmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\halfmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD954C6E-8636-3BD6-E23E-D3A085D67B09}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\amiro\\source\\repos\\design-patternsv2\\decoratorpattern\\decoratorpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -78,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,98 +166,356 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "Syrup.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Syrup.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Syrup.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Syrup.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Syrup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:30:07.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VanillaSugar.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\VanillaSugar.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\VanillaSugar.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\VanillaSugar.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\VanillaSugar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:30:30.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Water.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Water.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Water.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Water.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:31:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Whip.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Whip.cs",
               "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Whip.cs",
               "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Whip.cs",
               "RelativeToolTip": "DecoratorPattern\\Condiments\\Whip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T08:42:08.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Mocha.cs",
-              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Mocha.cs",
-              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Mocha.cs",
-              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Mocha.cs",
-              "RelativeToolTip": "DecoratorPattern\\Condiments\\Mocha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Whiskey.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Whiskey.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Whiskey.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Whiskey.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Whiskey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T08:42:01.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CondimentDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\CondimentDecorator.cs",
-              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\CondimentDecorator.cs",
-              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\CondimentDecorator.cs",
-              "RelativeToolTip": "DecoratorPattern\\Condiments\\CondimentDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T08:41:55.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Water.cs",
-              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Water.cs",
-              "RelativeDocumentMoniker": "DecoratorPattern\\Beverages\\Water.cs",
-              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Water.cs",
-              "RelativeToolTip": "DecoratorPattern\\Beverages\\Water.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T08:41:50.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Espresso.cs",
-              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Espresso.cs",
-              "RelativeDocumentMoniker": "DecoratorPattern\\Beverages\\Espresso.cs",
-              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Espresso.cs",
-              "RelativeToolTip": "DecoratorPattern\\Beverages\\Espresso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T08:41:45.275Z",
+              "WhenOpened": "2026-09-18T21:31:31.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "WhiteChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\WhiteChocolate.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\WhiteChocolate.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\WhiteChocolate.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\WhiteChocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:32:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Chocolate.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Beverages\\Chocolate.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Chocolate.cs",
+              "RelativeToolTip": "DecoratorPattern\\Beverages\\Chocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:35:17.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Beverage.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Beverage.cs",
               "RelativeDocumentMoniker": "DecoratorPattern\\Beverages\\Beverage.cs",
               "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Beverage.cs",
               "RelativeToolTip": "DecoratorPattern\\Beverages\\Beverage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T08:41:36.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DecoratorPattern",
+              "DocumentIndex": 3,
+              "Title": "BlackChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\BlackChocolate.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\BlackChocolate.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\BlackChocolate.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\BlackChocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T09:07:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Chocolate.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Chocolate.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Chocolate.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Chocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:13:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Espresso.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Beverages\\Espresso.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Espresso.cs",
+              "RelativeToolTip": "DecoratorPattern\\Beverages\\Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T08:41:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SteamedMilk.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\SteamedMilk.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\SteamedMilk.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\SteamedMilk.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\SteamedMilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:29:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mocha.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Mocha.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Mocha.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Mocha.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Mocha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T08:42:01.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MilkFoam.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\MilkFoam.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\MilkFoam.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\MilkFoam.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\MilkFoam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:29:09.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Milk.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Milk.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Milk.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:28:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Liquor.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Liquor.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Liquor.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Liquor.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Liquor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:28:16.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lemon.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Lemon.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Lemon.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Lemon.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Lemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:28:17.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IceCream.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\IceCream.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\IceCream.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\IceCream.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\IceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:27:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ice.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Ice.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Ice.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Ice.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Ice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:17:21.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Honey.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Honey.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Honey.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Honey.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Honey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:15:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HalfMilk.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\HalfMilk.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\HalfMilk.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\HalfMilk.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\HalfMilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:16:46.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Espresso.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Espresso.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Espresso.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:10:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cream.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Cream.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\Cream.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\Cream.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\Cream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:14:47.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CondimentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\CondimentDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments\\CondimentDecorator.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Condiments\\CondimentDecorator.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments\\CondimentDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T08:41:55.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Program.cs",
+              "RelativeToolTip": "DecoratorPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T21:35:45.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Water.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Beverages\\Water.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\Beverages\\Water.cs",
+              "RelativeToolTip": "DecoratorPattern\\Beverages\\Water.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T08:41:50.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DecoratorPattern.csproj",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\DecoratorPattern.csproj",
               "RelativeDocumentMoniker": "DecoratorPattern\\DecoratorPattern.csproj",
               "ToolTip": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\DecoratorPattern\\DecoratorPattern.csproj",
               "RelativeToolTip": "DecoratorPattern\\DecoratorPattern.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-14T08:40:09.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T08:40:09.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "WeatherData.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\WeatherData.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\WeatherData.cs",
@@ -185,12 +523,11 @@
               "RelativeToolTip": "ObserverPattern\\WeatherData.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T20:53:42.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T20:53:42.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\Subject.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Interfaces\\Subject.cs",
@@ -202,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 34,
               "Title": "Observer.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\Observer.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Interfaces\\Observer.cs",
@@ -214,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 35,
               "Title": "DisplayElement.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Interfaces\\DisplayElement.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Interfaces\\DisplayElement.cs",
@@ -226,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "StatisticsDisplay.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\StatisticsDisplay.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Displays\\StatisticsDisplay.cs",
@@ -238,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "ForecastDisplay.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\ForecastDisplay.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Displays\\ForecastDisplay.cs",
@@ -250,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
               "Title": "CurrentConditionDisplay.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
@@ -262,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 36,
               "Title": "ObserverPattern.csproj",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\ObserverPattern.csproj",
               "RelativeDocumentMoniker": "ObserverPattern\\ObserverPattern.csproj",
@@ -270,12 +607,11 @@
               "RelativeToolTip": "ObserverPattern\\ObserverPattern.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-10T12:54:01.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T12:54:01.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "StrategyPattern.csproj",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\StrategyPattern\\StrategyPattern.csproj",
               "RelativeDocumentMoniker": "StrategyPattern\\StrategyPattern.csproj",
@@ -283,12 +619,11 @@
               "RelativeToolTip": "StrategyPattern\\StrategyPattern.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-10T12:54:00.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T12:54:00.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\ObserverPattern\\Program.cs",
               "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",

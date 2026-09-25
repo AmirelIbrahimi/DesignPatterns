@@ -7,20 +7,20 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern.Condiments
 {
-    internal class Espresso : CondimentDecorator
+    internal class BlackChocolate : CondimentDecorator
     {
-        public Espresso(Beverage beverage) : base(beverage)
+        public BlackChocolate(Beverage beverage) : base(beverage)
         {
         }
 
         public override double cost()
         {
-            return 0.27 + base.cost() + baseBeverage.cost();
+            return 1.10 + base.cost() + baseBeverage.cost();
         }
 
         public override string GetDescription()
         {
-            return baseBeverage.GetDescription() + ", Espresso";
+            return baseBeverage.GetDescription() + ", Black Chocolate";
         }
     }
 }

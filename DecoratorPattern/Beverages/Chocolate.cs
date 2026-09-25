@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern.Beverages
 {
-    internal class Espresso : Beverage
+    internal class Chocolate : Beverage
     {
-        public Espresso(Beverage beverage = null)
+        public Chocolate(Beverage beverage = null)
         {
-            description = "Espresso";
+            description = "Chocolate";
             this.baseBeverage = beverage;
-
         }
         public override string GetDescription()
         {
@@ -26,9 +25,9 @@ namespace DecoratorPattern.Beverages
         {
             if (baseBeverage != null)
             {
-                return 1.99 + baseBeverage.cost();
+                return 1.49 + baseBeverage.cost();
             }
-            return 1.99;
+            return 1.49;
         }
     }
 }
