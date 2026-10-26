@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StrategyPattern",
-    "\\StrategyPattern\\Interfaces",
-    "\\StrategyPattern\\Interfaces\\FlyBehavior",
-    "\\StrategyPattern\\Interfaces\\QuackBehavior",
-    "\\StrategyPattern\\Interfaces\\SwimBehavior"
+    "\\StrategyPattern"
   ],
+  "SelectedNode": "\\DesignPatterns.sln",
   "PreviewInSolutionExplorer": false
 }
