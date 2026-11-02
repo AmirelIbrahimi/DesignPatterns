@@ -35,8 +35,10 @@ namespace TemplateMethodPattern
 
             Console.WriteLine("Before sorting:");
             Display(ducks);
+            Console.WriteLine("After sorting:");
+            Duck.Sort(ducks);
+            Display(ducks);
         }
-        // test
 
         // You'll need this method for the second part of the Template Method Pattern
         public static void Display(object[] objects)
