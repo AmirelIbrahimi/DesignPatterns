@@ -12,40 +12,57 @@ namespace CommandPattern.Classes
     {
         Command[] onCommands = new Command[7];
         Command[] offCommands = new Command[7];
-        Command undoCommand;
+        
+        // Stack om de undo history op te slaan
+        Stack<Command> undoHistory = new Stack<Command>();
         public RemoteControl()
         {
-            Command noCommand = new NoCommand();
             for (int i = 0; i < onCommands.Length; i++)
             {
                 onCommands[i] = new NoCommand();
                 offCommands[i] = new NoCommand();
             }
-            undoCommand = noCommand;
         }
 
         // This method must set the On and Off command to the slot provided
         public void SetCommand(int slot, Command onCommand, Command offCommand)
         {
+            onCommands[slot] = onCommand;
+            offCommands[slot] = offCommand;
         }
 
         // This method must call the OnCommand.Execute() method of the slot provided
+
+        // Push om de het op de stapel te leggen
         public void OnButtonWasPushed(int slot)
         {
+            onCommands[slot].Execute();
+            undoHistory.Push(onCommands[slot]);
         }
 
         // This method must call the OffCommand.Execute() method of the slot provided
         public void OffButtonWasPushed(int slot)
         {
+            offCommands[slot].Execute();
+            undoHistory.Push(offCommands[slot]);
+        }
+
+        // Pop om het van de stapel af te halen
+        public void UndoButtonWasPushed()
+        {
+            if (undoHistory.Count > 0)
+            {
+                undoHistory.Pop().Undo();
+            }
         }
         // Overwritten ToString() to print out each slot and its corresponding command.
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
             sb.Append("\n----- Remote Control ----- \n");
-            for(int i = 0;i < onCommands.Length;i++)
+            for (int i = 0; i < onCommands.Length; i++)
             {
-                sb.Append("[slot " + i + "] "+ onCommands[i] + " \t\t  " + offCommands[i] + "\n");
+                sb.Append("[slot " + i + "] " + onCommands[i] + " \t\t  " + offCommands[i] + "\n");
             }
             return sb.ToString();
         }
