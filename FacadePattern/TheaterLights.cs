@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace FacadePattern
     {
         public void On()
         {
-
+            Console.WriteLine("Theater Lights on");
         }
 
         public void Off()
@@ -20,7 +20,7 @@ namespace FacadePattern
 
         public void Dim(int value)
         {
-
+            Console.WriteLine($"Theater Lights dimming to {value}%");
         }
     }
 }

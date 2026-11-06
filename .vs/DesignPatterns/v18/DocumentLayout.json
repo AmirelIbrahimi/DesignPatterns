@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Amiro\\source\\repos\\Design-PatternsV2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\popcornpopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\popcornpopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\lawofdementer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\lawofdementer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\theaterlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\theaterlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\cdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\cdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|c:\\users\\amiro\\source\\repos\\amirelibrahimi\\designpatterns\\facadepattern\\facadepattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EA301A7-FFF4-B860-103D-8B941BD1A081}|FacadePattern\\FacadePattern.csproj|solutionrelative:facadepattern\\facadepattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\Projector.cs",
+              "RelativeDocumentMoniker": "FacadePattern\\Projector.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\Projector.cs",
+              "RelativeToolTip": "FacadePattern\\Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:50:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\Program.cs",
+              "RelativeDocumentMoniker": "FacadePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\Program.cs",
+              "RelativeToolTip": "FacadePattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:50:29.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PopcornPopper.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\PopcornPopper.cs",
+              "RelativeDocumentMoniker": "FacadePattern\\PopcornPopper.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\PopcornPopper.cs",
+              "RelativeToolTip": "FacadePattern\\PopcornPopper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:50:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LawOfDementer.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\LawOfDementer.cs",
+              "RelativeDocumentMoniker": "FacadePattern\\LawOfDementer.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\LawOfDementer.cs",
+              "RelativeToolTip": "FacadePattern\\LawOfDementer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:50:24.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheaterLights.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\TheaterLights.cs",
+              "RelativeDocumentMoniker": "FacadePattern\\TheaterLights.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\TheaterLights.cs",
+              "RelativeToolTip": "FacadePattern\\TheaterLights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:50:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CdPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\CdPlayer.cs",
+              "RelativeDocumentMoniker": "FacadePattern\\CdPlayer.cs",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\CdPlayer.cs",
+              "RelativeToolTip": "FacadePattern\\CdPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:50:07.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacadePattern",
+              "DocumentMoniker": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
+              "RelativeDocumentMoniker": "FacadePattern\\FacadePattern.csproj",
+              "ToolTip": "C:\\Users\\Amiro\\source\\repos\\AmirelIbrahimi\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
+              "RelativeToolTip": "FacadePattern\\FacadePattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-06T22:47:12.102Z",
+              "EditorCaption": ""
             }
           ]
         }
